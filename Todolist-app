@@ -10,7 +10,7 @@
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-2" value="Tampilan Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s5TK7jqmRl22Ts6t5IPq-3" value="email,password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="s5TK7jqmRl22Ts6t5IPq-3" value="username, password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-4" value="akun terdaftar ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
