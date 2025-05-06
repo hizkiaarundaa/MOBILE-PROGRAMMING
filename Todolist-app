@@ -216,6 +216,9 @@
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-83" value="Benar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="610" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s5TK7jqmRl22Ts6t5IPq-84" value="Benar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
