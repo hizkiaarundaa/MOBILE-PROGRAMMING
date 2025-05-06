@@ -105,6 +105,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="s5TK7jqmRl22Ts6t5IPq-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s5TK7jqmRl22Ts6t5IPq-19" target="s5TK7jqmRl22Ts6t5IPq-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="745" />
+              <mxPoint x="20" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-19" value="Kembali ?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="710" width="160" height="70" as="geometry" />
         </mxCell>
