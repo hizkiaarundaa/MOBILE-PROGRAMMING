@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-27" value="Tugas Selesai" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="253" y="720" width="160" height="40" as="geometry" />
+          <mxGeometry x="253" y="740" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s5TK7jqmRl22Ts6t5IPq-28" target="s5TK7jqmRl22Ts6t5IPq-57">
           <mxGeometry relative="1" as="geometry">
@@ -157,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-31" value="tandai tugas&lt;div&gt;selesai&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="293" y="630" width="80" height="70" as="geometry" />
+          <mxGeometry x="293" y="640" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="s5TK7jqmRl22Ts6t5IPq-24" target="s5TK7jqmRl22Ts6t5IPq-31">
           <mxGeometry relative="1" as="geometry" />
@@ -212,6 +212,9 @@
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-82" value="Salah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="700" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s5TK7jqmRl22Ts6t5IPq-83" value="Benar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
