@@ -17,16 +17,19 @@
           <mxGeometry x="40" y="220" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-5" value="Tampilan Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="235" width="160" height="40" as="geometry" />
+          <mxGeometry x="480" y="220" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-6" value="username, password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="300" width="160" height="40" as="geometry" />
+          <mxGeometry x="480" y="285" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-8" value="Simpan data user" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="400" y="360" width="80" height="60" as="geometry" />
+          <mxGeometry x="520" y="345" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-9" value="&lt;font&gt;username &amp;amp;&amp;amp; password&lt;/font&gt;&lt;div&gt;&lt;font&gt;benar ?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="310" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s5TK7jqmRl22Ts6t5IPq-10" value="Username || Password&amp;nbsp;&lt;div&gt;Salah&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="330" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
