@@ -195,6 +195,9 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-17" value="Username, email,&amp;nbsp;&lt;div&gt;password, konfirmasi password&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-19" value="Simpan user ke&lt;div&gt;database&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="281.5" y="250" width="97" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
