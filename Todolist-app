@@ -27,7 +27,7 @@
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s5TK7jqmRl22Ts6t5IPq-15" target="s5TK7jqmRl22Ts6t5IPq-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s5TK7jqmRl22Ts6t5IPq-15" value="Tampilan Home Page" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="s5TK7jqmRl22Ts6t5IPq-15" value="Tampilan Home user" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="225" y="505" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s5TK7jqmRl22Ts6t5IPq-17" target="s5TK7jqmRl22Ts6t5IPq-18" edge="1">
