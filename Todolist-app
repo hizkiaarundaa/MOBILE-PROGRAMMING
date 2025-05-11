@@ -21,7 +21,7 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s5TK7jqmRl22Ts6t5IPq-9" target="qVS_iyFv64ZYCFy7h5Yl-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s5TK7jqmRl22Ts6t5IPq-9" value="&lt;font&gt;username &amp;amp;&amp;amp; password&lt;/font&gt;&lt;div&gt;&lt;font&gt;benar ?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="s5TK7jqmRl22Ts6t5IPq-9" value="password benar?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="40" y="340" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s5TK7jqmRl22Ts6t5IPq-15" target="s5TK7jqmRl22Ts6t5IPq-29" edge="1">
@@ -190,7 +190,7 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-30" value="Benar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="960" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-36" value="Email Atau Password&lt;div&gt;Salah&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-36" value="Password Salah" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="218" y="355" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-36" target="qVS_iyFv64ZYCFy7h5Yl-43">
