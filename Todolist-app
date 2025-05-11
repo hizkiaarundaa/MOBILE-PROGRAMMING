@@ -290,6 +290,12 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-70" value="Salah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="163" y="475" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-71" value="Benar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-72" value="Salah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="581.5" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
