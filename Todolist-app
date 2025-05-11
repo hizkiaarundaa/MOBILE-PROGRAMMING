@@ -177,20 +177,32 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-3" value="Welcome Screen" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-13" target="qVS_iyFv64ZYCFy7h5Yl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-13" target="qVS_iyFv64ZYCFy7h5Yl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-13" value="Punya Akun?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-14" value="Masukkan username&lt;div&gt;dan password&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="160" height="40" as="geometry" />
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-14" value="username, password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="265" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-15" target="qVS_iyFv64ZYCFy7h5Yl-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-15" value="Tampilan Login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-16" target="qVS_iyFv64ZYCFy7h5Yl-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-16" value="Tampilan Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="115" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-17" target="qVS_iyFv64ZYCFy7h5Yl-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-17" value="Username, email,&amp;nbsp;&lt;div&gt;password, konfirmasi password&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="160" height="40" as="geometry" />
