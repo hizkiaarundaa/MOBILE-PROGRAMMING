@@ -450,7 +450,7 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-124" value="Hapus tugas&lt;div&gt;yang dipilih&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="621.5" y="850" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-126" value="Tugas Berhasil&amp;nbsp;&lt;div&gt;Di Tambahkan&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-126" value="Tugas dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="581.5" y="950" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
