@@ -195,7 +195,7 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-30" value="Benar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="1090" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-36" value="!&lt;div&gt;(Username || Password)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-36" value="Email Atau Password&lt;div&gt;Salah&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="218" y="355" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-36" target="qVS_iyFv64ZYCFy7h5Yl-43">
