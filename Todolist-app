@@ -440,7 +440,7 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-123" value="Pilih Tugas yang&amp;nbsp;&lt;div&gt;ingin dihapus&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="558.5" y="800" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-124" value="tandai tugas&lt;div&gt;selesai&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-124" value="Hapus tugas&lt;div&gt;yang dipilih&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="598.5" y="850" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
