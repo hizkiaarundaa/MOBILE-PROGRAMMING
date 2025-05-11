@@ -269,7 +269,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-67" value="Ambil daftar&lt;div&gt;tugas&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="80" y="555" width="80" height="60" as="geometry" />
+          <mxGeometry x="80" y="545" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-64" target="qVS_iyFv64ZYCFy7h5Yl-67">
           <mxGeometry relative="1" as="geometry" />
