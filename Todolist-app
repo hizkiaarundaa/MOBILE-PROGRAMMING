@@ -169,13 +169,16 @@
         <mxCell id="s5TK7jqmRl22Ts6t5IPq-87" value="Tampilan Daftar&lt;div&gt;Tugas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="40" y="540" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-3">
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-3" target="qVS_iyFv64ZYCFy7h5Yl-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="100.00000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-3" value="Welcome Screen" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-13" value="Punya Akun?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
