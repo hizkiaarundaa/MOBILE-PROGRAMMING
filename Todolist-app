@@ -474,7 +474,7 @@
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-138" value="Logout &amp;amp;&amp;amp;&amp;nbsp;&lt;div&gt;Keluar Aplikasi&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=JetBrains Mono;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="1065" y="785" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-140" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="qVS_iyFv64ZYCFy7h5Yl-140" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="1090" y="855" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qVS_iyFv64ZYCFy7h5Yl-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qVS_iyFv64ZYCFy7h5Yl-138" target="qVS_iyFv64ZYCFy7h5Yl-140">
